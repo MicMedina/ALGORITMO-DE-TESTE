@@ -13,17 +13,20 @@ Var
 
 horasTRA, nhorasTRA, salarioMIN, imposto, salarioBRU, salarioREC : real
 
-Inicio
+inicio
+escreval("******************")
 escreval("INFORME DE SÁLARIO")
-escreva("número de horas trabalhada:")
+escreval("******************")
+escreval("quantas horas você trabalhou?")
 leia(nhorasTRA)
-escreva("sálario mínimo:")
+escreval("insira o sálario mínimo atual:")
 leia(salarioMIN)
+
 horasTRA<- salarioMIN/5
 salarioBRU<- nhorasTRA*horasTRA
 imposto<- salarioBRU*0.03
 salarioREC<- salarioBRU - imposto
-escreva("o imposto cobrado foi:",imposto)
-escreval(" ")
-escreva("seu sálário a receber é:",salarioREC)
-Fimalgoritmo
+
+escreval("o imposto cobrado foi:",imposto)
+escreval("seu sálário a receber é:",salarioREC)
+fimdoalgoritmo
