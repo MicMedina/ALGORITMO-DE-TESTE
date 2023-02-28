@@ -1,7 +1,6 @@
-//2) Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e
-mostre:
-a) a idade dessa pessoa o final do ano atual;
-b) quantos anos essa pessoa terá ao final de 2050;//
+// 2) Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+// a) a idade dessa pessoa o final do ano atual;
+// b) quantos anos essa pessoa terá ao final de 2050;
 
 Algoritmo "CALCULAR ANO"
 //  
