@@ -16,12 +16,10 @@ escreva("insira nota 2:")
 leia(n2)
 escreva("insira nota 3:")
 leia(n3)
-escreva("insira o peso da primeira nota:")
-leia(p1)
-escreva("insira o peso da segunda nota:")
-leia(p2)
-escreva("insira o peso da terceira nota:")
-leia(p3)
-media<-((n1*p1)+(n2*p2)+(n3*p3))/(p1+p2+p3)
-escreva("sua media é:",media)
+
+p1<- 2
+p2<- 1
+p3<- 2
+
+media<-(n1*p1+n2*p2+n3*p3)/(p1+p2+p3)
 Fimalgoritmo
