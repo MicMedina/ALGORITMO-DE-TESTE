@@ -1,5 +1,4 @@
-//1) Faça um algoritmo que receba três notas e seus respectivos pesos, calcule e mostre a média
-ponderada dessas notas!//
+// 1) Faça um algoritmo que receba três notas e seus respectivos pesos, calcule e mostre a média, ponderada dessas notas!
 
 Algoritmo "CALCULAR MÉDIA"
 //  
