@@ -1,13 +1,16 @@
-Algoritmo "CALCULAR MÉDIA"
+//1) FaÃ§a um algoritmo que receba trÃªs notas e seus respectivos pesos, calcule e mostre a mÃ©dia
+ponderada dessas notas!//
+
+Algoritmo "CALCULAR MÃ‰DIA"
 //  
 //  
-// Descrição   : fazer a média de 3 notas e seus respectivos pesos
+// DescriÃ§Ã£o   : fazer a mÃ©dia de 3 notas e seus respectivos pesos
 Var
 
 n1, n2, n3, p1, p2, p3, media: real
 
 Inicio
-escreval("MÉDIA DAS NOTAS:")
+escreval("MÃ‰DIA DAS NOTAS:")
  escreva("insira nota 1:")
   leia(n1)
  escreva("insira nota 2:")
@@ -21,5 +24,5 @@ escreval("MÉDIA DAS NOTAS:")
  escreva("insira o peso da terceira nota:")
   leia(p3)
 media<-((n1*p1)+(n2*p2)+(n3*p3))/(p1+p2+p3)
- escreva("sua media é:",media)
+ escreva("sua media Ã©:",media)
 Fimalgoritmo
