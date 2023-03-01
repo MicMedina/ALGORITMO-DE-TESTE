@@ -1,19 +1,30 @@
-Algoritmo "C�LCULO DO IMC"
-// 
-//  
-// Descri��o   : calcular o indice de massa corporal;
+Algoritmo "CÁLCULO DO IMC"
+//
+//
+// Descrição   : calcular o indice de massa corporal;
 Var
 
 peso, altura, imc : real
 
 Inicio
 escreval("************************")
-escreval("IND�CE DE MASSA CORPORAL")
+escreval("INDÍCE DE MASSA CORPORAL")
 escreval("************************")
 escreva("insira seu peso(kg):")
 leia(peso)
 escreva("insira sua altura:")
 leia(altura)
 imc<- peso/(altura^2)
-escreva("seu indice de massa corporal �:",imc)
+escreval("seu indice de massa corporal é:",imc)
+              se(imc<18.5) entao
+              escreval("você está com magreza extrema")
+              senao
+                se (imc<=24.9) entao
+                escreval("você está no peso normal")
+                senao
+                escreval("Voce está normal")
+                 senao
+                 se
+fimse
+fimse
 Fimalgoritmo
