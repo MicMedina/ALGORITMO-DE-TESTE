@@ -28,4 +28,4 @@ salarioREC<- salarioBRU - imposto
 
 escreval("o imposto cobrado foi:",imposto)
 escreval("seu sálário a receber é:",salarioREC)
-fimdoalgoritmo
+fimalgoritmo
