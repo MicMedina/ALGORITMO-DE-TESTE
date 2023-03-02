@@ -1,7 +1,7 @@
 Algoritmo "CÁLCULO DO IMC"
 //
-//
 // Descrição   : calcular o indice de massa corporal;
+
 Var
 
 peso, altura, imc : real
