@@ -10,9 +10,7 @@ Var
 ingressoVEN, valorING, gastoT : real
 
 Inicio
-escreval("************************")
 escreval("QUANTIDADES DE INGRESSOS")
-escreval("************************")
 escreval("valor gasto no espetáculo:")
 leia(gastoT)
 escreval("valor do ingresso:")
