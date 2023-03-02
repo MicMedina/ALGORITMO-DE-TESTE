@@ -2,8 +2,8 @@
 
 Algoritmo "CALCULAR MÉDIA"
 //  
-//  
 // Descrição   : fazer a média de 3 notas e seus respectivos pesos
+
 Var
 
 n1, n2, n3, p1, p2, p3, media: real
