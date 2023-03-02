@@ -8,7 +8,7 @@ Algoritmo "CALCULAR ANO"
 
 Var
 
-idade, anoAT, anoNA : inteiro
+idade, idadeF, anoNA, anoAT : inteiro
 
 Inicio
 escreva("insira o ano de nascimento:")
@@ -17,11 +17,8 @@ escreva("insira o ano atual:")
 leia(anoAT)
 
 idade<-anoAT - anoNA
+idadeF<-2050 - anoNA
 
 escreval("sua idade é:",idade)
-leia(idade)
-
-idade<-2050 - anoNA
-
-escreval("sua idade em 2050 será:",idade)
+escreval("sua idade em 2050 será:",idadeF)
 Fimalgoritmo
