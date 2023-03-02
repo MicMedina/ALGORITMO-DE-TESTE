@@ -1,16 +1,20 @@
+// 5) Fa√ßa um algoritmo que receba um hor√°rio (uma vari√°vel para hora, para minutose outra para segundos), calcule e mostre:
+// a) o hor√°rio digitado convertido em minutos;
+// b) o total dos minutos convertidos em segundos;
+
 Algoritmo "CONVERSOR DE HORAS"
 // 
-//  
-// DescriÁ„o   :
 Var
+
 horas, minutos, segundos : inteiro
+
 Inicio
-escreva("insira as horas para convers„o:")
+escreva("insira as horas para convers√£o:")
 leia(horas)
 
 minutos<- horas*60
 segundos<- minutos*60
 
-escreval("as horas em minutos, s„o:",minutos)
-escreva("os minutos em segundos, s„o:",segundos)
+escreval("as horas em minutos, s√£o:",minutos)
+escreva("os minutos em segundos, s√£o:",segundos)
 Fimalgoritmo
