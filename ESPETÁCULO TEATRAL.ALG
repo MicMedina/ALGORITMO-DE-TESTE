@@ -3,8 +3,8 @@
 
 Algoritmo "ESPETÁCULO TEATRAL"
 //
-//
 // Descrição   : cálculo para liberar o espetáculo;
+
 Var
 
 ingressoVEN, valorING, gastoT : real
@@ -21,4 +21,4 @@ leia(valorING)
 ingressoVEN<- gastoT/valorING
 
 escreval("a quantidade de ingressos vendidos para o espetáculo acontecer é:",ingressoVEN)
-Fimalgoritmo
+fimalgoritmo
