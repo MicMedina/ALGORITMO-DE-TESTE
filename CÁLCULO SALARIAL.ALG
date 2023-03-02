@@ -7,7 +7,6 @@
 
 Algoritmo "SÁLARIO"
 //  
-//  
 // Descrição   : cálculo do sálario
 Var
 
